@@ -17,4 +17,5 @@
 14. concurrently --kill-others \"npm run start\" \"npm run json:server\"      //// multiple server run together.  
 
 
-burol: our lady of miraculous medal chapel fernando air base lipa city batangas
+npm install --save multer  ///// file uploading
+.gitignore      ///// ignore upload files to git repository
